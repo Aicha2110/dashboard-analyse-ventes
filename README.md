@@ -71,12 +71,10 @@ Voici un aperçu visuel du fichier Excel interactif :
 
 ![Aperçu du tableau de bord](dashboard_apercu.png)
 
----
+## 🎥 Vidéo de démonstration
 
-## 📂 Fichiers inclus
-
-- `Analyse des performances de Ventes.xlsx` : fichier Excel complet
-- `dashboard_apercu.png` : capture d’écran du tableau de bord
+Cliquez ci-dessous pour voir le tableau de bord en action :  
+[▶️ Voir la vidéo](demo_tableau_de_bord_superstore.mp4)
 
 ---
 
